@@ -13,7 +13,7 @@ gradlew setupDecompWorkSpace
 gradlew build 
 ----------------------------------------------------------------------------
 Releases /// SRC 
-![ethteyjhetyj](https://github.com/XG2025-Akaishin/Cracked-Client/releases)
+![Source code](https://github.com/XG2025-Akaishin/Cracked-Client/releases)
 
 ClickGui Number 1 of 4
 
